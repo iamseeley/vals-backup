@@ -1,1 +1,3 @@
-ZXhwb3J0IGRlZmF1bHQgYXN5bmMgZnVuY3Rpb24gKGludGVydmFsOiBJbnRlcnZhbCkgewogIAp9
+export default async function (interval: Interval) {
+  
+}
