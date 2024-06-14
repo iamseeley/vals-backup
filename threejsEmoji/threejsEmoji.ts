@@ -1,1 +1,8 @@
-aW1wb3J0IHsgY3JlYXRlM0RFbW9qaSB9IGZyb20gJ2h0dHBzOi8vZXNtLnRvd24vdi9pYW1zZWVsZXkvdGhyZWVkRW1vamknOwoKd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ0RPTUNvbnRlbnRMb2FkZWQnLCAoKSA9PiB7CiAgY29uc3QgZW1vamlFbGVtZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2Vtb2ppJyk7CiAgY29uc3QgZW1vamkgPSBlbW9qaUVsZW1lbnQuZ2V0QXR0cmlidXRlKCdkYXRhLWVtb2ppJyk7CiAgY29uc3QgY29udGFpbmVyID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJzNkLWVtb2ppLWNvbnRhaW5lcicpOwogIGNyZWF0ZTNERW1vamkoZW1vamksIDEwMCwgMTAwKTsKfSk7Cg==
+import { create3DEmoji } from 'https://esm.town/v/iamseeley/threedEmoji';
+
+window.addEventListener('DOMContentLoaded', () => {
+  const emojiElement = document.getElementById('emoji');
+  const emoji = emojiElement.getAttribute('data-emoji');
+  const container = document.getElementById('3d-emoji-container');
+  create3DEmoji(emoji, 100, 100);
+});
