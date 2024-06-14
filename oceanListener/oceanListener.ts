@@ -1,1 +1,17 @@
-aW1wb3J0IHsgZ2VuZXJhdGVCdWJibGVzIH0gZnJvbSAnaHR0cHM6Ly9lc20udG93bi92L2lhbXNlZWxleS9nZW5lcmF0ZUJ1YmJsZXMnOwppbXBvcnQgeyBnZW5lcmF0ZUZpc2ggfSBmcm9tICdodHRwczovL2VzbS50b3duL3YvaWFtc2VlbGV5L2dlbmVyYXRlRmlzaCc7Cgpkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCdET01Db250ZW50TG9hZGVkJywgKGlzT2NlYW5UaGVtZSkgPT4gewogICAgICBpZiAoaXNPY2VhblRoZW1lKSB7CiAgICAgICAgICBjb25zdCBmaXNoQ29udGFpbmVyID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLmZpc2gtY29udGFpbmVyJyk7CiAgICAgICAgICBjb25zdCBidWJibGVDb250YWluZXIgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcuYnViYmxlLWNvbnRhaW5lcicpOwoKICAgICAgICAgIGlmIChmaXNoQ29udGFpbmVyKSB7CiAgICAgICAgICAgIGZpc2hDb250YWluZXIuaW5uZXJIVE1MID0gZ2VuZXJhdGVGaXNoKCk7CiAgICAgICAgICB9CgogICAgICAgICAgaWYgKGJ1YmJsZUNvbnRhaW5lcikgewogICAgICAgICAgICBidWJibGVDb250YWluZXIuaW5uZXJIVE1MID0gZ2VuZXJhdGVCdWJibGVzKCk7CiAgICAgICAgICB9CiAgICAgIH0KfSk7
+import { generateBubbles } from 'https://esm.town/v/iamseeley/generateBubbles';
+import { generateFish } from 'https://esm.town/v/iamseeley/generateFish';
+
+document.addEventListener('DOMContentLoaded', (isOceanTheme) => {
+      if (isOceanTheme) {
+          const fishContainer = document.querySelector('.fish-container');
+          const bubbleContainer = document.querySelector('.bubble-container');
+
+          if (fishContainer) {
+            fishContainer.innerHTML = generateFish();
+          }
+
+          if (bubbleContainer) {
+            bubbleContainer.innerHTML = generateBubbles();
+          }
+      }
+});
