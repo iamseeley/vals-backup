@@ -1,1 +1,37 @@
-ZXhwb3J0IGNsYXNzIFZhbFRvd25BUEkgewogIGNvbnN0cnVjdG9yKHByaXZhdGUgYXBpS2V5OiBzdHJpbmcpIHt9CgogIGFzeW5jIGdldFVzZXJJRCgpIHsKICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goJ2h0dHBzOi8vYXBpLnZhbC50b3duL3YxL21lJywgewogICAgICBtZXRob2Q6ICdHRVQnLAogICAgICBoZWFkZXJzOiB7CiAgICAgICAgJ0F1dGhvcml6YXRpb24nOiBgQmVhcmVyICR7dGhpcy5hcGlLZXl9YCwKICAgICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nCiAgICAgIH0KICAgIH0pOwoKICAgIGlmICghcmVzcG9uc2Uub2spIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGBFcnJvciBmZXRjaGluZyB1c2VyIGRldGFpbHM6ICR7cmVzcG9uc2Uuc3RhdHVzVGV4dH1gKTsKICAgIH0KCiAgICBjb25zdCB1c2VyRGV0YWlscyA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTsKICAgIHJldHVybiB1c2VyRGV0YWlscy5pZDsKICB9CgogIGFzeW5jIGdldEFsbFZhbHMoKSB7CiAgICBjb25zdCB1c2VySWQgPSBhd2FpdCB0aGlzLmdldFVzZXJJRCgpOwogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaChgaHR0cHM6Ly9hcGkudmFsLnRvd24vdjEvdXNlcnMvJHt1c2VySWR9L3ZhbHNgLCB7CiAgICAgIG1ldGhvZDogJ0dFVCcsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAnQXV0aG9yaXphdGlvbic6IGBCZWFyZXIgJHt0aGlzLmFwaUtleX1gLAogICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicKICAgICAgfQogICAgfSk7CgogICAgaWYgKCFyZXNwb25zZS5vaykgewogICAgICB0aHJvdyBuZXcgRXJyb3IoYEVycm9yIGZldGNoaW5nIHZhbHM6ICR7cmVzcG9uc2Uuc3RhdHVzVGV4dH1gKTsKICAgIH0KCiAgICByZXR1cm4gcmVzcG9uc2UuanNvbigpOwogIH0KfQo=
+export class ValTownAPI {
+  constructor(private apiKey: string) {}
+
+  async getUserID() {
+    const response = await fetch('https://api.val.town/v1/me', {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${this.apiKey}`,
+        'Content-Type': 'application/json'
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error(`Error fetching user details: ${response.statusText}`);
+    }
+
+    const userDetails = await response.json();
+    return userDetails.id;
+  }
+
+  async getAllVals() {
+    const userId = await this.getUserID();
+    const response = await fetch(`https://api.val.town/v1/users/${userId}/vals`, {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${this.apiKey}`,
+        'Content-Type': 'application/json'
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error(`Error fetching vals: ${response.statusText}`);
+    }
+
+    return response.json();
+  }
+}
