@@ -1,1 +1,153 @@
-CgpleHBvcnQgZGVmYXVsdCBhc3luYyBmdW5jdGlvbiBjb252ZXJ0UmVzdW1lKHJlcTogUmVxdWVzdCk6IFByb21pc2U8UmVzcG9uc2U+IHsKICAgIGNvbnN0IGh0bWwgPSBgCiAgICA8IURPQ1RZUEUgaHRtbD4KICAgIDxodG1sIGxhbmc9ImVuIj4KICAgIDxoZWFkPgogICAgICAgIDxtZXRhIGNoYXJzZXQ9IlVURi04Ij4KICAgICAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEuMCI+CiAgICAgICAgPHRpdGxlPlJlc3VtZSB0byBKU09OPC90aXRsZT4KICAgICAgICA8c3R5bGU+CiAgICAgICAgYm9keSB7CiAgICAgICAgICBwYWRkaW5nOiA1cHg7CiAgICAgICAgICBtYXJnaW4tdG9wOiAzMnB4OwogICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzJjM2U1MDsKICAgICAgICAgIGZvbnQtZmFtaWx5OiAnQXJpYWwnLCBzYW5zLXNlcmlmOwogICAgICAgICAgY29sb3I6ICNlY2YwZjE7CiAgICAgICAgICBtYXgtd2lkdGg6IDYyNHB4OwogICAgICAgIH0KCiAgICAgICAgZm9ybSB7CiAgICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICAgICAgICAgIGdhcDogNHB4OwogICAgICAgIH0KCiAgICAgICAgCiAgICAgICAgIAogICAgICAgIC8qIFNwaW5uZXIgU3R5bGVzICovCiAgICAgICAgLnNwaW5uZXIgewogICAgICAgICAgICBkaXNwbGF5OiBub25lOwogICAgICAgICAgICBib3JkZXI6IDhweCBzb2xpZCAjZjNmM2YzOwogICAgICAgICAgICBib3JkZXItcmFkaXVzOiA1MCU7CiAgICAgICAgICAgIGJvcmRlci10b3A6IDhweCBzb2xpZCAjMzQ5OGRiOwogICAgICAgICAgICB3aWR0aDogNjBweDsKICAgICAgICAgICAgaGVpZ2h0OiA2MHB4OwogICAgICAgICAgICBhbmltYXRpb246IHNwaW4gMnMgbGluZWFyIGluZmluaXRlOwogICAgICAgIH0KCiAgICAgICAgQGtleWZyYW1lcyBzcGluIHsKICAgICAgICAgICAgMCUgeyB0cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsgfQogICAgICAgICAgICAxMDAlIHsgdHJhbnNmb3JtOiByb3RhdGUoMzYwZGVnKTsgfQogICAgICAgIH0KCiAgICAgICAgLyogQ29weSBCdXR0b24gU3R5bGVzICovCiAgICAgICAgI2NvcHlCdXR0b24gewogICAgICAgICAgICBkaXNwbGF5OiBub25lOwogICAgICAgICAgICBtYXJnaW4tdG9wOiAxMHB4OwogICAgICAgICAgICBwYWRkaW5nOiAxMHB4IDIwcHg7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICMzNDk4ZGI7CiAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTsKICAgICAgICAgICAgYm9yZGVyOiBub25lOwogICAgICAgICAgICBib3JkZXItcmFkaXVzOiA1cHg7CiAgICAgICAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgICAgICB9CgogICAgICAgICNob3N0QnV0dG9uIHsKICAgICAgICAgICAgZGlzcGxheTogbm9uZTsKICAgICAgICAgICAgbWFyZ2luLXRvcDogMTBweDsKICAgICAgICAgICAgcGFkZGluZzogMTBweCAyMHB4OwogICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMmVjYzcxOwogICAgICAgICAgICBjb2xvcjogd2hpdGU7CiAgICAgICAgICAgIGJvcmRlcjogbm9uZTsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogNXB4OwogICAgICAgICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICAgICAgfQoKICAgICAgICAvKiBBUEkgS2V5IElucHV0IFN0eWxlcyAqLwogICAgICAgICNhcGlLZXlJbnB1dCB7CiAgICAgICAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICAgICAgICAgIG1hcmdpbi10b3A6IDEwcHg7CiAgICAgICAgfQoKICAgICAgICBwcmUgewogICAgICAgICAgd2hpdGUtc3BhY2U6IHByZXNlcnZlOwogICAgICAgIH0KICAgICAgICAKICAgIDwvc3R5bGU+CiAgICA8L2hlYWQ+CiAgICA8Ym9keT4KICAgICAgICA8aDE+Q29udmVydCBSZXN1bWUgdG8gSlNPTiBSZXN1bWUgU3RhbmRhcmQ8L2gxPgogICAgICAgIDxmb3JtIGlkPSJyZXN1bWVGb3JtIj4KICAgICAgICAgICAgPHRleHRhcmVhIGlkPSJyZXN1bWVDb250ZW50IiByb3dzPSIyMCIgIHBsYWNlaG9sZGVyPSJQYXN0ZSB5b3VyIHJlc3VtZSBjb250ZW50IGhlcmUuLi4iPjwvdGV4dGFyZWE+PGJyPgogICAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCI+Q29udmVydCB0byBKU09OPC9idXR0b24+CiAgICAgICAgPC9mb3JtPgogICAgICAgIDxoMj5KU09OIFJlc3VtZSBPdXRwdXQ8L2gyPgogICAgICAgIDxkaXYgY2xhc3M9InNwaW5uZXIiIGlkPSJzcGlubmVyIj48L2Rpdj4KICAgICAgICA8cHJlIGlkPSJqc29uT3V0cHV0Ij48L3ByZT4KICAgICAgICA8YnV0dG9uIGlkPSJjb3B5QnV0dG9uIj5Db3B5IHRvIENsaXBib2FyZDwvYnV0dG9uPgogICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0iYXBpS2V5SW5wdXQiIHBsYWNlaG9sZGVyPSJFbnRlciB5b3VyIFZhbCBUb3duIEFQSSBLZXkiPgogICAgICAgIDxidXR0b24gaWQ9Imhvc3RCdXR0b24iPkhvc3QgUmVzdW1lPC9idXR0b24+CiAgICAgICAgCiAgICAKICAgICAgICA8c2NyaXB0IHR5cGU9Im1vZHVsZSI+CiAgICAgICAgICAgIGltcG9ydCB7IGNvbnZlcnRUb1Jlc3VtZUpTT04gfSBmcm9tICdodHRwczovL2VzbS50b3duL3YvaWFtc2VlbGV5L2NvbnZlcnRUb1Jlc3VtZUpTT04nOwogICAgICAgICAgICBpbXBvcnQgeyBjb3B5VG9DbGlwIH0gZnJvbSAnaHR0cHM6Ly9lc20udG93bi92L2lhbXNlZWxleS9jb3B5VG9DbGlwJzsKICAgICAgICAgICAgaW1wb3J0IHsgaG9zdFJlc3VtZSB9IGZyb20gJ2h0dHBzOi8vZXNtLnRvd24vdi9pYW1zZWVsZXkvaG9zdFJlc3VtZSc7CiAgICAKICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jlc3VtZUZvcm0nKS5hZGRFdmVudExpc3RlbmVyKCdzdWJtaXQnLCBhc3luYyBmdW5jdGlvbihldmVudCkgewogICAgICAgICAgICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgICAgICAgY29uc3QgcmVzdW1lQ29udGVudCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyZXN1bWVDb250ZW50JykudmFsdWU7CiAgICAgICAgICAgICAgY29uc3QgYXBpS2V5ID0gJyR7RGVuby5lbnYuZ2V0KCJPUEVOQUlfQVBJX0tFWSIpfSc7CiAgICAgICAgICAgICAgY29uc3Qgc3Bpbm5lciA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzcGlubmVyJyk7CiAgICAgICAgICAgICAgY29uc3QganNvbk91dHB1dCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdqc29uT3V0cHV0Jyk7CiAgICAgICAgICAgICAgY29uc3QgY29weUJ1dHRvbiA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb3B5QnV0dG9uJyk7CiAgICAgICAgICAgICAgY29uc3QgaG9zdEJ1dHRvbiA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdob3N0QnV0dG9uJyk7CiAgICAgICAgICAgICAgY29uc3QgYXBpS2V5SW5wdXQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnYXBpS2V5SW5wdXQnKTsKCiAgICAgICAgICAgICAgc3Bpbm5lci5zdHlsZS5kaXNwbGF5ID0gJ2Jsb2NrJzsKICAgICAgICAgICAgICBqc29uT3V0cHV0LnRleHRDb250ZW50ID0gJyc7CiAgICAgICAgICAgICAgY29weUJ1dHRvbi5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnOwogICAgICAgICAgICAgIGhvc3RCdXR0b24uc3R5bGUuZGlzcGxheSA9ICdub25lJzsKICAgICAgICAgICAgICBhcGlLZXlJbnB1dC5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnOwogICAgCiAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgY29uc3QganNvblJlc3VtZSA9IGF3YWl0IGNvbnZlcnRUb1Jlc3VtZUpTT04ocmVzdW1lQ29udGVudCwgYXBpS2V5KTsKICAgICAgICAgICAgICAgIGpzb25PdXRwdXQudGV4dENvbnRlbnQgPSBKU09OLnN0cmluZ2lmeShKU09OLnBhcnNlKGpzb25SZXN1bWUpLCBudWxsLCAyKTsKICAgICAgICAgICAgICAgIGNvcHlCdXR0b24uc3R5bGUuZGlzcGxheSA9ICdibG9jayc7CiAgICAgICAgICAgICAgICBob3N0QnV0dG9uLnN0eWxlLmRpc3BsYXkgPSAnYmxvY2snOwogICAgICAgICAgICAgICAgYXBpS2V5SW5wdXQuc3R5bGUuZGlzcGxheSA9ICdibG9jayc7CiAgICAgICAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgICAgICAgICBqc29uT3V0cHV0LnRleHRDb250ZW50ID0gJ0FuIGVycm9yIG9jY3VycmVkIHdoaWxlIGNvbnZlcnRpbmcgdGhlIHJlc3VtZS4nOwogICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgLy8gSGlkZSB0aGUgc3Bpbm5lcgogICAgICAgICAgICAgICAgc3Bpbm5lci5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnOwogICAgICAgICAgICB9CiAgICAgICAgICB9KTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb3B5QnV0dG9uJykuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCAoKSA9PiBjb3B5VG9DbGlwKCdqc29uT3V0cHV0JykpOwoKICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2hvc3RCdXR0b24nKS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGFzeW5jIGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgIGNvbnN0IGpzb25PdXRwdXQgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjanNvbk91dHB1dCcpLmlubmVyVGV4dDsKICAgICAgICAgICAgICBjb25zdCB2YWxUb3duQXBpS2V5ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2FwaUtleUlucHV0JykudmFsdWU7IC8vIEdldCB0aGUgVmFsIFRvd24gQVBJIGtleSBmcm9tIGlucHV0CiAgCiAgICAgICAgICAgICAgaWYgKCF2YWxUb3duQXBpS2V5KSB7CiAgICAgICAgICAgICAgICAgIGFsZXJ0KCdQbGVhc2UgZW50ZXIgeW91ciBWYWwgVG93biBBUEkgS2V5LicpOwogICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgfQogIAogICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgIGNvbnN0IGhvc3RlZFVybCA9IGF3YWl0IGhvc3RSZXN1bWUoSlNPTi5wYXJzZShqc29uT3V0cHV0KSwgdmFsVG93bkFwaUtleSk7CiAgICAgICAgICAgICAgICAgIGFsZXJ0KCdSZXN1bWUgaG9zdGVkIGF0OiAnICsgaG9zdGVkVXJsKTsKICAgICAgICAgICAgICAgICAgd2luZG93Lm9wZW4oaG9zdGVkVXJsLCAnX2JsYW5rJyk7CiAgICAgICAgICAgICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgICAgICAgICAgICAgYWxlcnQoJ0FuIGVycm9yIG9jY3VycmVkIHdoaWxlIGhvc3RpbmcgdGhlIHJlc3VtZS4nKTsKICAgICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICAgICAgPC9zY3JpcHQ+CiAgICA8L2JvZHk+CiAgICA8L2h0bWw+CmA7CiAgcmV0dXJuIG5ldyBSZXNwb25zZShodG1sLCB7IGhlYWRlcnM6IHsgIkNvbnRlbnQtVHlwZSI6ICJ0ZXh0L2h0bWwiIH0gfSk7Cn0=
+
+
+export default async function convertResume(req: Request): Promise<Response> {
+    const html = `
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Resume to JSON</title>
+        <style>
+        body {
+          padding: 5px;
+          margin-top: 32px;
+          background-color: #2c3e50;
+          font-family: 'Arial', sans-serif;
+          color: #ecf0f1;
+          max-width: 624px;
+        }
+
+        form {
+          display: flex;
+          flex-direction: column;
+          gap: 4px;
+        }
+
+        
+         
+        /* Spinner Styles */
+        .spinner {
+            display: none;
+            border: 8px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 8px solid #3498db;
+            width: 60px;
+            height: 60px;
+            animation: spin 2s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Copy Button Styles */
+        #copyButton {
+            display: none;
+            margin-top: 10px;
+            padding: 10px 20px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        #hostButton {
+            display: none;
+            margin-top: 10px;
+            padding: 10px 20px;
+            background-color: #2ecc71;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        /* API Key Input Styles */
+        #apiKeyInput {
+            display: none;
+            margin-top: 10px;
+        }
+
+        pre {
+          white-space: preserve;
+        }
+        
+    </style>
+    </head>
+    <body>
+        <h1>Convert Resume to JSON Resume Standard</h1>
+        <form id="resumeForm">
+            <textarea id="resumeContent" rows="20"  placeholder="Paste your resume content here..."></textarea><br>
+            <button type="submit">Convert to JSON</button>
+        </form>
+        <h2>JSON Resume Output</h2>
+        <div class="spinner" id="spinner"></div>
+        <pre id="jsonOutput"></pre>
+        <button id="copyButton">Copy to Clipboard</button>
+        <input type="text" id="apiKeyInput" placeholder="Enter your Val Town API Key">
+        <button id="hostButton">Host Resume</button>
+        
+    
+        <script type="module">
+            import { convertToResumeJSON } from 'https://esm.town/v/iamseeley/convertToResumeJSON';
+            import { copyToClip } from 'https://esm.town/v/iamseeley/copyToClip';
+            import { hostResume } from 'https://esm.town/v/iamseeley/hostResume';
+    
+            document.getElementById('resumeForm').addEventListener('submit', async function(event) {
+              event.preventDefault();
+              const resumeContent = document.getElementById('resumeContent').value;
+              const apiKey = '${Deno.env.get("OPENAI_API_KEY")}';
+              const spinner = document.getElementById('spinner');
+              const jsonOutput = document.getElementById('jsonOutput');
+              const copyButton = document.getElementById('copyButton');
+              const hostButton = document.getElementById('hostButton');
+              const apiKeyInput = document.getElementById('apiKeyInput');
+
+              spinner.style.display = 'block';
+              jsonOutput.textContent = '';
+              copyButton.style.display = 'none';
+              hostButton.style.display = 'none';
+              apiKeyInput.style.display = 'none';
+    
+             try {
+                const jsonResume = await convertToResumeJSON(resumeContent, apiKey);
+                jsonOutput.textContent = JSON.stringify(JSON.parse(jsonResume), null, 2);
+                copyButton.style.display = 'block';
+                hostButton.style.display = 'block';
+                apiKeyInput.style.display = 'block';
+            } catch (error) {
+                jsonOutput.textContent = 'An error occurred while converting the resume.';
+            } finally {
+                // Hide the spinner
+                spinner.style.display = 'none';
+            }
+          });
+            
+            document.getElementById('copyButton').addEventListener('click', () => copyToClip('jsonOutput'));
+
+            document.getElementById('hostButton').addEventListener('click', async function() {
+              const jsonOutput = document.querySelector('#jsonOutput').innerText;
+              const valTownApiKey = document.getElementById('apiKeyInput').value; // Get the Val Town API key from input
+  
+              if (!valTownApiKey) {
+                  alert('Please enter your Val Town API Key.');
+                  return;
+              }
+  
+              try {
+                  const hostedUrl = await hostResume(JSON.parse(jsonOutput), valTownApiKey);
+                  alert('Resume hosted at: ' + hostedUrl);
+                  window.open(hostedUrl, '_blank');
+              } catch (error) {
+                  alert('An error occurred while hosting the resume.');
+              }
+        });
+        </script>
+    </body>
+    </html>
+`;
+  return new Response(html, { headers: { "Content-Type": "text/html" } });
+}
