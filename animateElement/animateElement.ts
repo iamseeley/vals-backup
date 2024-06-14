@@ -1,13 +1,1 @@
-export function animateElement(element, delay) {
-    return new Promise(resolve => {
-        setTimeout(() => {
-            element.classList.add('in-view');
-            resolve();
-        }, delay);
-    });
-}
-
-export async function animateElementsSimultaneously(elements, initialDelay) {
-    const promises = elements.map(element => animateElement(element, initialDelay));
-    await Promise.all(promises);
-}
+ZXhwb3J0IGZ1bmN0aW9uIGFuaW1hdGVFbGVtZW50KGVsZW1lbnQsIGRlbGF5KSB7CiAgICByZXR1cm4gbmV3IFByb21pc2UocmVzb2x2ZSA9PiB7CiAgICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgICAgIGVsZW1lbnQuY2xhc3NMaXN0LmFkZCgnaW4tdmlldycpOwogICAgICAgICAgICByZXNvbHZlKCk7CiAgICAgICAgfSwgZGVsYXkpOwogICAgfSk7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBhbmltYXRlRWxlbWVudHNTaW11bHRhbmVvdXNseShlbGVtZW50cywgaW5pdGlhbERlbGF5KSB7CiAgICBjb25zdCBwcm9taXNlcyA9IGVsZW1lbnRzLm1hcChlbGVtZW50ID0+IGFuaW1hdGVFbGVtZW50KGVsZW1lbnQsIGluaXRpYWxEZWxheSkpOwogICAgYXdhaXQgUHJvbWlzZS5hbGwocHJvbWlzZXMpOwp9Cg==
