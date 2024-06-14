@@ -1,12 +1,1 @@
-export function flashBorder(element) {
-  if (!element) return;
-  let flash = true;
-  setInterval(() => {
-    if (flash) {
-      element.style.borderRightColor = 'transparent';
-    } else {
-      element.style.borderRightColor = '#fff';
-    }
-    flash = !flash;
-  }, 750);
-}
+ZXhwb3J0IGZ1bmN0aW9uIGZsYXNoQm9yZGVyKGVsZW1lbnQpIHsKICBpZiAoIWVsZW1lbnQpIHJldHVybjsKICBsZXQgZmxhc2ggPSB0cnVlOwogIHNldEludGVydmFsKCgpID0+IHsKICAgIGlmIChmbGFzaCkgewogICAgICBlbGVtZW50LnN0eWxlLmJvcmRlclJpZ2h0Q29sb3IgPSAndHJhbnNwYXJlbnQnOwogICAgfSBlbHNlIHsKICAgICAgZWxlbWVudC5zdHlsZS5ib3JkZXJSaWdodENvbG9yID0gJyNmZmYnOwogICAgfQogICAgZmxhc2ggPSAhZmxhc2g7CiAgfSwgNzUwKTsKfQo=
