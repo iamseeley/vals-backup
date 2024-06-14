@@ -1,1 +1,119 @@
-ZXhwb3J0IGNsYXNzIEdpdEh1YkFQSSB7CiAgY29uc3RydWN0b3IocHJpdmF0ZSB0b2tlbjogc3RyaW5nKSB7fQoKICBhc3luYyBnZXRSZXBvQ29udGVudChyZXBvOiBzdHJpbmcsIHBhdGg6IHN0cmluZywgYnJhbmNoOiBzdHJpbmcpIHsKICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goYGh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvJHtyZXBvfS9jb250ZW50cy8ke3BhdGh9P3JlZj0ke2JyYW5jaH1gLCB7CiAgICAgIG1ldGhvZDogJ0dFVCcsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAnQXV0aG9yaXphdGlvbic6IGBCZWFyZXIgJHt0aGlzLnRva2VufWAKICAgICAgfQogICAgfSk7CgogICAgaWYgKCFyZXNwb25zZS5vaykgewogICAgICB0aHJvdyBuZXcgRXJyb3IoYEVycm9yIGZldGNoaW5nIHJlcG8gY29udGVudDogJHtyZXNwb25zZS5zdGF0dXNUZXh0fWApOwogICAgfQoKICAgIHJldHVybiByZXNwb25zZS5qc29uKCk7CiAgfQoKICBhc3luYyBnZXRGaWxlU0hBKHJlcG86IHN0cmluZywgcGF0aDogc3RyaW5nLCBicmFuY2g6IHN0cmluZykgewogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaChgaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy8ke3JlcG99L2NvbnRlbnRzLyR7cGF0aH0/cmVmPSR7YnJhbmNofWAsIHsKICAgICAgbWV0aG9kOiAnR0VUJywKICAgICAgaGVhZGVyczogewogICAgICAgICdBdXRob3JpemF0aW9uJzogYEJlYXJlciAke3RoaXMudG9rZW59YAogICAgICB9CiAgICB9KTsKCiAgICBpZiAoIXJlc3BvbnNlLm9rKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihgRXJyb3IgZmV0Y2hpbmcgZmlsZSBTSEE6ICR7cmVzcG9uc2Uuc3RhdHVzVGV4dH1gKTsKICAgIH0KCiAgICBjb25zdCBkYXRhID0gYXdhaXQgcmVzcG9uc2UuanNvbigpOwogICAgcmV0dXJuIGRhdGEuc2hhOwogIH0KCiAgYXN5bmMgdXBkYXRlRmlsZShyZXBvOiBzdHJpbmcsIHBhdGg6IHN0cmluZywgY29udGVudDogc3RyaW5nLCBzaGE6IHN0cmluZywgbWVzc2FnZTogc3RyaW5nLCBicmFuY2g6IHN0cmluZykgewogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaChgaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy8ke3JlcG99L2NvbnRlbnRzLyR7cGF0aH1gLCB7CiAgICAgIG1ldGhvZDogJ1BVVCcsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAnQXV0aG9yaXphdGlvbic6IGBCZWFyZXIgJHt0aGlzLnRva2VufWAsCiAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJwogICAgICB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgbWVzc2FnZTogbWVzc2FnZSwKICAgICAgICBjb250ZW50OiBjb250ZW50LAogICAgICAgIHNoYTogc2hhLAogICAgICAgIGJyYW5jaDogYnJhbmNoCiAgICAgIH0pCiAgICB9KTsKCiAgICBpZiAoIXJlc3BvbnNlLm9rKSB7CiAgICAgIGNvbnN0IHJlc3BvbnNlQm9keSA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTsKICAgICAgY29uc29sZS5lcnJvcihgRXJyb3IgdXBkYXRpbmcgZmlsZTogJHtyZXNwb25zZS5zdGF0dXNUZXh0fWApOwogICAgICBjb25zb2xlLmVycm9yKGBSZXNwb25zZSBib2R5OiAke0pTT04uc3RyaW5naWZ5KHJlc3BvbnNlQm9keSl9YCk7CiAgICAgIHRocm93IG5ldyBFcnJvcihgRXJyb3IgdXBkYXRpbmcgZmlsZTogJHtyZXNwb25zZS5zdGF0dXNUZXh0fWApOwogICAgfQoKICAgIHJldHVybiByZXNwb25zZS5qc29uKCk7CiAgfQoKYXN5bmMgY3JlYXRlRmlsZShyZXBvOiBzdHJpbmcsIHBhdGg6IHN0cmluZywgY29udGVudDogc3RyaW5nLCBtZXNzYWdlOiBzdHJpbmcsIGJyYW5jaDogc3RyaW5nKSB7CiAgY29uc3QgdXJsID0gYGh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvJHtyZXBvfS9jb250ZW50cy8ke3BhdGh9YDsKCiAgbGV0IGJvZHk6IGFueSA9IHsKICAgIG1lc3NhZ2U6IG1lc3NhZ2UsCiAgICBjb250ZW50OiBidG9hKHVuZXNjYXBlKGVuY29kZVVSSUNvbXBvbmVudChjb250ZW50KSkpLAogICAgYnJhbmNoOiBicmFuY2gKICB9OwoKICB0cnkgewogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaChgJHt1cmx9P3JlZj0ke2JyYW5jaH1gLCB7CiAgICAgIG1ldGhvZDogJ0dFVCcsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAnQXV0aG9yaXphdGlvbic6IGBCZWFyZXIgJHt0aGlzLnRva2VufWAsCiAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJwogICAgICB9CiAgICB9KTsKCiAgICBpZiAocmVzcG9uc2Uub2spIHsKICAgICAgY29uc3QgZGF0YSA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTsKICAgICAgYm9keS5zaGEgPSBkYXRhLnNoYTsKICAgIH0KICB9IGNhdGNoIChlcnJvcikgewogICAgY29uc29sZS5lcnJvcihgRXJyb3IgZmV0Y2hpbmcgZmlsZSBTSEE6ICR7ZXJyb3IubWVzc2FnZX1gKTsKICB9CgogIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2godXJsLCB7CiAgICBtZXRob2Q6ICdQVVQnLAogICAgaGVhZGVyczogewogICAgICAnQXV0aG9yaXphdGlvbic6IGBCZWFyZXIgJHt0aGlzLnRva2VufWAsCiAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicKICAgIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeShib2R5KQogIH0pOwoKICBpZiAoIXJlc3BvbnNlLm9rKSB7CiAgICBjb25zdCByZXNwb25zZUJvZHkgPSBhd2FpdCByZXNwb25zZS5qc29uKCk7CiAgICBjb25zb2xlLmVycm9yKGBFcnJvciBjcmVhdGluZyBmaWxlOiAke3Jlc3BvbnNlLnN0YXR1c1RleHR9YCk7CiAgICBjb25zb2xlLmVycm9yKGBSZXNwb25zZSBib2R5OiAke0pTT04uc3RyaW5naWZ5KHJlc3BvbnNlQm9keSl9YCk7CiAgICB0aHJvdyBuZXcgRXJyb3IoYEVycm9yIGNyZWF0aW5nIGZpbGU6ICR7cmVzcG9uc2Uuc3RhdHVzVGV4dH1gKTsKICB9CgogIHJldHVybiByZXNwb25zZS5qc29uKCk7Cn0KCgoKICBhc3luYyBnZXRDb21taXRIaXN0b3J5KHJlcG86IHN0cmluZywgcGF0aDogc3RyaW5nLCBicmFuY2g6IHN0cmluZykgewogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaChgaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy8ke3JlcG99L2NvbW1pdHM/cGF0aD0ke3BhdGh9JnNoYT0ke2JyYW5jaH1gLCB7CiAgICAgIG1ldGhvZDogJ0dFVCcsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAnQXV0aG9yaXphdGlvbic6IGBCZWFyZXIgJHt0aGlzLnRva2VufWAKICAgICAgfQogICAgfSk7CgogICAgaWYgKCFyZXNwb25zZS5vaykgewogICAgICB0aHJvdyBuZXcgRXJyb3IoYEVycm9yIGZldGNoaW5nIGNvbW1pdCBoaXN0b3J5OiAke3Jlc3BvbnNlLnN0YXR1c1RleHR9YCk7CiAgICB9CgogICAgcmV0dXJuIHJlc3BvbnNlLmpzb24oKTsKICB9Cn0=
+export class GitHubAPI {
+  constructor(private token: string) {}
+
+  async getRepoContent(repo: string, path: string, branch: string) {
+    const response = await fetch(`https://api.github.com/repos/${repo}/contents/${path}?ref=${branch}`, {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${this.token}`
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error(`Error fetching repo content: ${response.statusText}`);
+    }
+
+    return response.json();
+  }
+
+  async getFileSHA(repo: string, path: string, branch: string) {
+    const response = await fetch(`https://api.github.com/repos/${repo}/contents/${path}?ref=${branch}`, {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${this.token}`
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error(`Error fetching file SHA: ${response.statusText}`);
+    }
+
+    const data = await response.json();
+    return data.sha;
+  }
+
+  async updateFile(repo: string, path: string, content: string, sha: string, message: string, branch: string) {
+    const response = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
+      method: 'PUT',
+      headers: {
+        'Authorization': `Bearer ${this.token}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        message: message,
+        content: btoa(unescape(encodeURIComponent(content))),
+        sha: sha,
+        branch: branch
+      })
+    });
+
+    if (!response.ok) {
+      const responseBody = await response.json();
+      console.error(`Error updating file: ${response.statusText}`);
+      console.error(`Response body: ${JSON.stringify(responseBody)}`);
+      throw new Error(`Error updating file: ${response.statusText}`);
+    }
+
+    return response.json();
+  }
+
+  async createFile(repo: string, path: string, content: string, message: string, branch: string) {
+    const url = `https://api.github.com/repos/${repo}/contents/${path}`;
+
+    let body: any = {
+      message: message,
+      content: btoa(unescape(encodeURIComponent(content))),
+      branch: branch
+    };
+
+    try {
+      const response = await fetch(`${url}?ref=${branch}`, {
+        method: 'GET',
+        headers: {
+          'Authorization': `Bearer ${this.token}`,
+          'Content-Type': 'application/json'
+        }
+      });
+
+      if (response.ok) {
+        const data = await response.json();
+        body.sha = data.sha;
+      }
+    } catch (error) {
+      console.error(`Error fetching file SHA: ${error.message}`);
+    }
+
+    const response = await fetch(url, {
+      method: 'PUT',
+      headers: {
+        'Authorization': `Bearer ${this.token}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(body)
+    });
+
+    if (!response.ok) {
+      const responseBody = await response.json();
+      console.error(`Error creating file: ${response.statusText}`);
+      console.error(`Response body: ${JSON.stringify(responseBody)}`);
+      throw new Error(`Error creating file: ${response.statusText}`);
+    }
+
+    return response.json();
+  }
+
+  async getCommitHistory(repo: string, path: string, branch: string) {
+    const response = await fetch(`https://api.github.com/repos/${repo}/commits?path=${path}&sha=${branch}`, {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${this.token}`
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error(`Error fetching commit history: ${response.statusText}`);
+    }
+
+    return response.json();
+  }
+}
