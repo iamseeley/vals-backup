@@ -1,1 +1,74 @@
-aW1wb3J0ICogYXMgVEhSRUUgZnJvbSAnaHR0cHM6Ly9jZG4uc2t5cGFjay5kZXYvdGhyZWVAMC4xMjguMCc7CgpleHBvcnQgZnVuY3Rpb24gY3JlYXRlM0RFbW9qaShlbW9qaSwgd2lkdGgsIGhlaWdodCkgewogICAgLy8gY2FudmFzIGVsZW1lbnQKICAgIGNvbnN0IGNhbnZhcyA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2NhbnZhcycpOwogICAgY29uc3QgY29udGV4dCA9IGNhbnZhcy5nZXRDb250ZXh0KCcyZCcpOwoKICAgIGlmICghY29udGV4dCkgewogICAgICAgIGNvbnNvbGUuZXJyb3IoJ0ZhaWxlZCB0byBnZXQgMkQgY29udGV4dCBmb3IgdGhlIGNhbnZhcycpOwogICAgICAgIHJldHVybjsKICAgIH0KCiAgICAvLyBzZXQgY2FudmFzIGRpbWVuc2lvbnMgYW5kIGRyYXcgdGhlIGVtb2ppCiAgICBjYW52YXMud2lkdGggPSA1MTI7CiAgICBjYW52YXMuaGVpZ2h0ID0gNTEyOwogICAgY29udGV4dC5mb250ID0gJzQwMHB4IEFyaWFsJzsKICAgIGNvbnRleHQudGV4dEFsaWduID0gJ2NlbnRlcic7CiAgICBjb250ZXh0LnRleHRCYXNlbGluZSA9ICdtaWRkbGUnOwogICAgY29udGV4dC5maWxsVGV4dChlbW9qaSwgY2FudmFzLndpZHRoIC8gMiwgY2FudmFzLmhlaWdodCAvIDIpOwoKICAgIC8vIGNyZWF0ZSBhIHRleHR1cmUgZnJvbSB0aGUgY2FudmFzCiAgICBjb25zdCB0ZXh0dXJlID0gbmV3IFRIUkVFLkNhbnZhc1RleHR1cmUoY2FudmFzKTsKCiAgICAvLyBzZXQgdXAgdGhyZWUuanMgc2NlbmUsIGNhbWVyYSwgYW5kIHJlbmRlcmVyCiAgICBjb25zdCBzY2VuZSA9IG5ldyBUSFJFRS5TY2VuZSgpOwogICAgY29uc3QgY2FtZXJhID0gbmV3IFRIUkVFLlBlcnNwZWN0aXZlQ2FtZXJhKDc1LCB3aWR0aCAvIGhlaWdodCwgMC4xLCAxMDAwKTsKICAgIGNvbnN0IHJlbmRlcmVyID0gbmV3IFRIUkVFLldlYkdMUmVuZGVyZXIoeyBhbHBoYTogdHJ1ZSB9KTsKICAgIHJlbmRlcmVyLnNldFNpemUod2lkdGgsIGhlaWdodCk7CgogICAgLy8gYXBwZW5kIHRoZSByZW5kZXJlcidzIGNhbnZhcyB0byB0aGUgRE9NCiAgICBjb25zdCBlbW9qaUNvbnRhaW5lciA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCczZC1lbW9qaScpOwogICAgaWYgKCFlbW9qaUNvbnRhaW5lcikgewogICAgICAgIGNvbnNvbGUuZXJyb3IoJ0ZhaWxlZCB0byBmaW5kIHRoZSBlbGVtZW50IHdpdGggaWQgIjNkLWVtb2ppIicpOwogICAgICAgIHJldHVybjsKICAgIH0KICAgIGVtb2ppQ29udGFpbmVyLmFwcGVuZENoaWxkKHJlbmRlcmVyLmRvbUVsZW1lbnQpOwoKICAgIC8vIGNyZWF0ZSBhIHBsYW5lIGdlb21ldHJ5IGFuZCBhcHBseSB0aGUgZW1vamkgdGV4dHVyZQogICAgY29uc3QgYXNwZWN0UmF0aW8gPSB3aWR0aCAvIGhlaWdodDsKICAgIGNvbnN0IHBsYW5lV2lkdGggPSA0OwogICAgY29uc3QgcGxhbmVIZWlnaHQgPSBwbGFuZVdpZHRoIC8gYXNwZWN0UmF0aW87CiAgICBjb25zdCBnZW9tZXRyeSA9IG5ldyBUSFJFRS5QbGFuZUdlb21ldHJ5KHBsYW5lV2lkdGgsIHBsYW5lSGVpZ2h0KTsKICAgIGNvbnN0IG1hdGVyaWFsID0gbmV3IFRIUkVFLk1lc2hCYXNpY01hdGVyaWFsKHsgbWFwOiB0ZXh0dXJlLCBzaWRlOiBUSFJFRS5Eb3VibGVTaWRlLCB0cmFuc3BhcmVudDogdHJ1ZSB9KTsKICAgIGNvbnN0IHBsYW5lID0gbmV3IFRIUkVFLk1lc2goZ2VvbWV0cnksIG1hdGVyaWFsKTsKICAgIHNjZW5lLmFkZChwbGFuZSk7CgogICAgLy8gcG9zaXRpb24gdGhlIGNhbWVyYQogICAgY29uc3QgY2FtZXJhRGlzdGFuY2UgPSAzOwogICAgY2FtZXJhLnBvc2l0aW9uLnogPSBjYW1lcmFEaXN0YW5jZTsKCiAgICAKCiAgICAvLyB2YXJpYWJsZXMgZm9yIHRoZSBiYWNrLWFuZC1mb3J0aCBhbmltYXRpb24KICAgIGxldCBkaXJlY3Rpb24gPSAxOwogICAgbGV0IHJvdGF0aW9uU3BlZWQgPSAwLjAxOwogICAgbGV0IG1heFJvdGF0aW9uID0gTWF0aC5QSSAvIDg7CgogICAgLy8gYW5pbWF0aW9uIGxvb3AKICAgIGZ1bmN0aW9uIGFuaW1hdGUoKSB7CiAgICAgICAgcmVxdWVzdEFuaW1hdGlvbkZyYW1lKGFuaW1hdGUpOwoKICAgICAgICAvLyB1cGRhdGUgcm90YXRpb24gYmFzZWQgb24gZGlyZWN0aW9uCiAgICAgICAgcGxhbmUucm90YXRpb24ueSArPSByb3RhdGlvblNwZWVkICogZGlyZWN0aW9uOwoKICAgICAgICAvLyByZXZlcnNlIGRpcmVjdGlvbiBpZiBtYXggcm90YXRpb24gaXMgcmVhY2hlZAogICAgICAgIGlmIChwbGFuZS5yb3RhdGlvbi55ID49IG1heFJvdGF0aW9uIHx8IHBsYW5lLnJvdGF0aW9uLnkgPD0gLW1heFJvdGF0aW9uKSB7CiAgICAgICAgICAgIGRpcmVjdGlvbiAqPSAtMTsKICAgICAgICB9CgogICAgICAgIHJlbmRlcmVyLnJlbmRlcihzY2VuZSwgY2FtZXJhKTsKICAgIH0KCiAgICBhbmltYXRlKCk7Cn0K
+import * as THREE from 'https://cdn.skypack.dev/three@0.128.0';
+
+export function create3DEmoji(emoji, width, height) {
+    // canvas element
+    const canvas = document.createElement('canvas');
+    const context = canvas.getContext('2d');
+
+    if (!context) {
+        console.error('Failed to get 2D context for the canvas');
+        return;
+    }
+
+    // set canvas dimensions and draw the emoji
+    canvas.width = 512;
+    canvas.height = 512;
+    context.font = '400px Arial';
+    context.textAlign = 'center';
+    context.textBaseline = 'middle';
+    context.fillText(emoji, canvas.width / 2, canvas.height / 2);
+
+    // create a texture from the canvas
+    const texture = new THREE.CanvasTexture(canvas);
+
+    // set up three.js scene, camera, and renderer
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, width / height, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer({ alpha: true });
+    renderer.setSize(width, height);
+
+    // append the renderer's canvas to the DOM
+    const emojiContainer = document.getElementById('3d-emoji');
+    if (!emojiContainer) {
+        console.error('Failed to find the element with id "3d-emoji"');
+        return;
+    }
+    emojiContainer.appendChild(renderer.domElement);
+
+    // create a plane geometry and apply the emoji texture
+    const aspectRatio = width / height;
+    const planeWidth = 4;
+    const planeHeight = planeWidth / aspectRatio;
+    const geometry = new THREE.PlaneGeometry(planeWidth, planeHeight);
+    const material = new THREE.MeshBasicMaterial({ map: texture, side: THREE.DoubleSide, transparent: true });
+    const plane = new THREE.Mesh(geometry, material);
+    scene.add(plane);
+
+    // position the camera
+    const cameraDistance = 3;
+    camera.position.z = cameraDistance;
+
+    
+
+    // variables for the back-and-forth animation
+    let direction = 1;
+    let rotationSpeed = 0.01;
+    let maxRotation = Math.PI / 8;
+
+    // animation loop
+    function animate() {
+        requestAnimationFrame(animate);
+
+        // update rotation based on direction
+        plane.rotation.y += rotationSpeed * direction;
+
+        // reverse direction if max rotation is reached
+        if (plane.rotation.y >= maxRotation || plane.rotation.y <= -maxRotation) {
+            direction *= -1;
+        }
+
+        renderer.render(scene, camera);
+    }
+
+    animate();
+}
