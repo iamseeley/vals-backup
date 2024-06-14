@@ -1,1 +1,180 @@
-aW1wb3J0IHsgVG9rZW5CdWNrZXQgfSBmcm9tICJodHRwczovL2VzbS50b3duL3YvaWFtc2VlbGV5L3Rva2VuQnVja2V0IjsKCmNvbnN0IHRva2VuQnVja2V0ID0gbmV3IFRva2VuQnVja2V0KDUsIDEvMTIpOwoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGNvbnZlcnRUb1Jlc3VtZUpTT04ocmVzdW1lLCBhcGlLZXkpIHsKICAgIGlmICghdG9rZW5CdWNrZXQuY29uc3VtZSgpKSB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJSYXRlIGxpbWl0IHJlYWNoZWQuIFBsZWFzZSB0cnkgYWdhaW4gbGF0ZXIuIik7CiAgICB9CgogICAgY29uc3QgZW5kcG9pbnQgPSAnaHR0cHM6Ly9hcGkub3BlbmFpLmNvbS92MS9jaGF0L2NvbXBsZXRpb25zJzsKICAgIGNvbnN0IG1vZGVsID0gJ2dwdC00JzsKCiAgICBjb25zdCBtZXNzYWdlcyA9IFsKICAgICAgewogICAgICAgIHJvbGU6ICJzeXN0ZW0iLAogICAgICAgIGNvbnRlbnQ6IGBZb3Ugd2lsbCBjb252ZXJ0IHRoZSB1c2VyJ3MgcmVzdW1lIHRvIHRoZSBKU09OIFJlc3VtZSBTdGFuZGFyZCB1c2luZyB0aGUgcmVzdW1lIGNvbnRlbnQuIElmIGEgdXNlcidzIHJlc3VtZSBpcyBtaXNzaW5nIHNlY3Rpb25zIGZvdW5kIGluIHRoZSBKU09OIFJlc3VtZSBTdGFuZGFyZCwgbWFrZSBzdXJlIHRvIGFkZCB0aGVtLCBidXQgbGVhdmUgdGhlIGZpZWxkcyBlbXB0eS5gLAogICAgICB9LAogICAgICB7CiAgICAgICAgcm9sZTogInN5c3RlbSIsCiAgICAgICAgY29udGVudDogYHsKICAiYmFzaWNzIjogewogICAgIm5hbWUiOiAiSm9obiBEb2UiLAogICAgImxhYmVsIjogIlByb2dyYW1tZXIiLAogICAgImltYWdlIjogIiIsCiAgICAiZW1haWwiOiAiam9obkBnbWFpbC5jb20iLAogICAgInBob25lIjogIig5MTIpIDU1NS00MzIxIiwKICAgICJ1cmwiOiAiaHR0cHM6Ly9qb2huZG9lLmNvbSIsCiAgICAic3VtbWFyeSI6ICJBIHN1bW1hcnkgb2YgSm9obiBEb2XigKYiLAogICAgImxvY2F0aW9uIjogewogICAgICAiYWRkcmVzcyI6ICIyNzEyIEJyb2Fkd2F5IFN0IiwKICAgICAgInBvc3RhbENvZGUiOiAiQ0EgOTQxMTUiLAogICAgICAiY2l0eSI6ICJTYW4gRnJhbmNpc2NvIiwKICAgICAgImNvdW50cnlDb2RlIjogIlVTIiwKICAgICAgInJlZ2lvbiI6ICJDYWxpZm9ybmlhIgogICAgfSwKICAgICJwcm9maWxlcyI6IFt7CiAgICAgICJuZXR3b3JrIjogIlR3aXR0ZXIiLAogICAgICAidXNlcm5hbWUiOiAiam9obiIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly90d2l0dGVyLmNvbS9qb2huIgogICAgfV0KICB9LAogICJ3b3JrIjogW3sKICAgICJuYW1lIjogIkNvbXBhbnkiLAogICAgInBvc2l0aW9uIjogIlByZXNpZGVudCIsCiAgICAidXJsIjogImh0dHBzOi8vY29tcGFueS5jb20iLAogICAgInN0YXJ0RGF0ZSI6ICIyMDEzLTAxLTAxIiwKICAgICJlbmREYXRlIjogIjIwMTQtMDEtMDEiLAogICAgInN1bW1hcnkiOiAiRGVzY3JpcHRpb27igKYiLAogICAgImhpZ2hsaWdodHMiOiBbCiAgICAgICJTdGFydGVkIHRoZSBjb21wYW55IgogICAgXQogIH1dLAogICJ2b2x1bnRlZXIiOiBbewogICAgIm9yZ2FuaXphdGlvbiI6ICJPcmdhbml6YXRpb24iLAogICAgInBvc2l0aW9uIjogIlZvbHVudGVlciIsCiAgICAidXJsIjogImh0dHBzOi8vb3JnYW5pemF0aW9uLmNvbS8iLAogICAgInN0YXJ0RGF0ZSI6ICIyMDEyLTAxLTAxIiwKICAgICJlbmREYXRlIjogIjIwMTMtMDEtMDEiLAogICAgInN1bW1hcnkiOiAiRGVzY3JpcHRpb27igKYiLAogICAgImhpZ2hsaWdodHMiOiBbCiAgICAgICJBd2FyZGVkICdWb2x1bnRlZXIgb2YgdGhlIE1vbnRoJyIKICAgIF0KICB9XSwKICAiZWR1Y2F0aW9uIjogW3sKICAgICJpbnN0aXR1dGlvbiI6ICJVbml2ZXJzaXR5IiwKICAgICJ1cmwiOiAiaHR0cHM6Ly9pbnN0aXR1dGlvbi5jb20vIiwKICAgICJhcmVhIjogIlNvZnR3YXJlIERldmVsb3BtZW50IiwKICAgICJzdHVkeVR5cGUiOiAiQmFjaGVsb3IiLAogICAgInN0YXJ0RGF0ZSI6ICIyMDExLTAxLTAxIiwKICAgICJlbmREYXRlIjogIjIwMTMtMDEtMDEiLAogICAgInNjb3JlIjogIjQuMCIsCiAgICAiY291cnNlcyI6IFsKICAgICAgIkRCMTEwMSAtIEJhc2ljIFNRTCIKICAgIF0KICB9XSwKICAiYXdhcmRzIjogW3sKICAgICJ0aXRsZSI6ICJBd2FyZCIsCiAgICAiZGF0ZSI6ICIyMDE0LTExLTAxIiwKICAgICJhd2FyZGVyIjogIkNvbXBhbnkiLAogICAgInN1bW1hcnkiOiAiVGhlcmUgaXMgbm8gc3Bvb24uIgogIH1dLAogICJjZXJ0aWZpY2F0ZXMiOiBbewogICAgIm5hbWUiOiAiQ2VydGlmaWNhdGUiLAogICAgImRhdGUiOiAiMjAyMS0xMS0wNyIsCiAgICAiaXNzdWVyIjogIkNvbXBhbnkiLAogICAgInVybCI6ICJodHRwczovL2NlcnRpZmljYXRlLmNvbSIKICB9XSwKICAicHVibGljYXRpb25zIjogW3sKICAgICJuYW1lIjogIlB1YmxpY2F0aW9uIiwKICAgICJwdWJsaXNoZXIiOiAiQ29tcGFueSIsCiAgICAicmVsZWFzZURhdGUiOiAiMjAxNC0xMC0wMSIsCiAgICAidXJsIjogImh0dHBzOi8vcHVibGljYXRpb24uY29tIiwKICAgICJzdW1tYXJ5IjogIkRlc2NyaXB0aW9u4oCmIgogIH1dLAogICJza2lsbHMiOiBbewogICAgIm5hbWUiOiAiV2ViIERldmVsb3BtZW50IiwKICAgICJsZXZlbCI6ICJNYXN0ZXIiLAogICAgImtleXdvcmRzIjogWwogICAgICAiSFRNTCIsCiAgICAgICJDU1MiLAogICAgICAiSmF2YVNjcmlwdCIKICAgIF0KICB9XSwKICAibGFuZ3VhZ2VzIjogW3sKICAgICJsYW5ndWFnZSI6ICJFbmdsaXNoIiwKICAgICJmbHVlbmN5IjogIk5hdGl2ZSBzcGVha2VyIgogIH1dLAogICJpbnRlcmVzdHMiOiBbewogICAgIm5hbWUiOiAiV2lsZGxpZmUiLAogICAgImtleXdvcmRzIjogWwogICAgICAiRmVycmV0cyIsCiAgICAgICJVbmljb3JucyIKICAgIF0KICB9XSwKICAicmVmZXJlbmNlcyI6IFt7CiAgICAibmFtZSI6ICJKYW5lIERvZSIsCiAgICAicmVmZXJlbmNlIjogIlJlZmVyZW5jZeKApiIKICB9XSwKICAicHJvamVjdHMiOiBbewogICAgIm5hbWUiOiAiUHJvamVjdCIsCiAgICAic3RhcnREYXRlIjogIjIwMTktMDEtMDEiLAogICAgImVuZERhdGUiOiAiMjAyMS0wMS0wMSIsCiAgICAiZGVzY3JpcHRpb24iOiAiRGVzY3JpcHRpb24uLi4iLAogICAgImhpZ2hsaWdodHMiOiBbCiAgICAgICJXb24gYXdhcmQgYXQgQUlIYWNrcyAyMDE2IgogICAgXSwKICAgICJ1cmwiOiAiaHR0cHM6Ly9wcm9qZWN0LmNvbS8iCiAgfV0KfWAsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICByb2xlOiAidXNlciIsCiAgICAgICAgY29udGVudDogYFJlc3VtZTogJHtyZXN1bWV9YCwKICAgICAgfSwKICAgIF07CgogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaChlbmRwb2ludCwgewogICAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgICAgJ0F1dGhvcml6YXRpb24nOiBgQmVhcmVyICR7YXBpS2V5fWAsCiAgICAgICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgfSwKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgICAgIG1vZGVsOiBtb2RlbCwKICAgICAgICAgICAgbWVzc2FnZXM6IG1lc3NhZ2VzLAogICAgICAgICAgICBtYXhfdG9rZW5zOiAxNTAwLAogICAgICAgICAgICBzdHJlYW06IHRydWUsCiAgICAgICAgfSksCiAgICB9KTsKCiAgICBpZiAoIXJlc3BvbnNlLm9rKSB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKGBFcnJvcjogJHtyZXNwb25zZS5zdGF0dXNUZXh0fWApOwogICAgfQoKICAgIGNvbnN0IHJlYWRlciA9IHJlc3BvbnNlLmJvZHkuZ2V0UmVhZGVyKCk7CiAgICBjb25zdCBkZWNvZGVyID0gbmV3IFRleHREZWNvZGVyKCJ1dGYtOCIpOwogICAgbGV0IHJlc3VsdCA9ICcnOwoKICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgY29uc3QgeyB2YWx1ZSwgZG9uZSB9ID0gYXdhaXQgcmVhZGVyLnJlYWQoKTsKICAgICAgICBpZiAoZG9uZSkgYnJlYWs7CiAgICAgICAgY29uc3QgY2h1bmsgPSBkZWNvZGVyLmRlY29kZSh2YWx1ZSwgeyBzdHJlYW06IHRydWUgfSk7CiAgICAgICAgcmVzdWx0ICs9IGNodW5rOwogICAgfQoKICAgIGNvbnN0IGxpbmVzID0gcmVzdWx0LnNwbGl0KCdcbicpLmZpbHRlcihsaW5lID0+IGxpbmUudHJpbSgpICE9PSAnJyk7CiAgICBsZXQgZmluYWxSZXN1bHQgPSAnJzsKICAgIGZvciAoY29uc3QgbGluZSBvZiBsaW5lcykgewogICAgICAgIGNvbnN0IG1lc3NhZ2UgPSBsaW5lLnJlcGxhY2UoL15kYXRhOiAvLCAnJyk7CiAgICAgICAgaWYgKG1lc3NhZ2UgPT09ICdbRE9ORV0nKSBicmVhazsKICAgICAgICB0cnkgewogICAgICAgICAgICBjb25zdCBwYXJzZWQgPSBKU09OLnBhcnNlKG1lc3NhZ2UpOwogICAgICAgICAgICBmaW5hbFJlc3VsdCArPSBwYXJzZWQuY2hvaWNlc1swXS5kZWx0YS5jb250ZW50IHx8ICcnOwogICAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoJ0NvdWxkIG5vdCBwYXJzZSBzdHJlYW0gbWVzc2FnZScsIG1lc3NhZ2UsIGVycm9yKTsKICAgICAgICB9CiAgICB9CgogICAgcmV0dXJuIGZpbmFsUmVzdWx0Owp9Cg==
+import { TokenBucket } from "https://esm.town/v/iamseeley/tokenBucket";
+
+const tokenBucket = new TokenBucket(5, 1/12);
+
+export async function convertToResumeJSON(resume, apiKey) {
+    if (!tokenBucket.consume()) {
+        throw new Error("Rate limit reached. Please try again later.");
+    }
+
+    const endpoint = 'https://api.openai.com/v1/chat/completions';
+    const model = 'gpt-4';
+
+    const messages = [
+      {
+        role: "system",
+        content: `You will convert the user's resume to the JSON Resume Standard using the resume content. If a user's resume is missing sections found in the JSON Resume Standard, make sure to add them, but leave the fields empty.`,
+      },
+      {
+        role: "system",
+        content: `{
+  "basics": {
+    "name": "John Doe",
+    "label": "Programmer",
+    "image": "",
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://johndoe.com",
+    "summary": "A summary of John Doe…",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "john",
+      "url": "https://twitter.com/john"
+    }]
+  },
+  "work": [{
+    "name": "Company",
+    "position": "President",
+    "url": "https://company.com",
+    "startDate": "2013-01-01",
+    "endDate": "2014-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "University",
+    "url": "https://institution.com/",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [{
+    "name": "Project",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "Description...",
+    "highlights": [
+      "Won award at AIHacks 2016"
+    ],
+    "url": "https://project.com/"
+  }]
+}`,
+      },
+      {
+        role: "user",
+        content: `Resume: ${resume}`,
+      },
+    ];
+
+    const response = await fetch(endpoint, {
+        method: 'POST',
+        headers: {
+            'Authorization': `Bearer ${apiKey}`,
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+            model: model,
+            messages: messages,
+            max_tokens: 1500,
+            stream: true,
+        }),
+    });
+
+    if (!response.ok) {
+        throw new Error(`Error: ${response.statusText}`);
+    }
+
+    const reader = response.body.getReader();
+    const decoder = new TextDecoder("utf-8");
+    let result = '';
+
+    while (true) {
+        const { value, done } = await reader.read();
+        if (done) break;
+        const chunk = decoder.decode(value, { stream: true });
+        result += chunk;
+    }
+
+    const lines = result.split('\n').filter(line => line.trim() !== '');
+    let finalResult = '';
+    for (const line of lines) {
+        const message = line.replace(/^data: /, '');
+        if (message === '[DONE]') break;
+        try {
+            const parsed = JSON.parse(message);
+            finalResult += parsed.choices[0].delta.content || '';
+        } catch (error) {
+            console.error('Could not parse stream message', message, error);
+        }
+    }
+
+    return finalResult;
+}
