@@ -1,3 +1,1 @@
-export default async function (interval: Interval) {
-  
-}
+ZXhwb3J0IGRlZmF1bHQgYXN5bmMgZnVuY3Rpb24gKGludGVydmFsOiBJbnRlcnZhbCkgewogIAp9
