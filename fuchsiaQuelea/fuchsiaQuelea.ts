@@ -1,9 +1,1 @@
-import handler from "https://esm.town/v/maxm/staticChess";
-import { pwa } from "https://esm.town/v/pomdtr/pwa";
-
-export default pwa(handler, {
-  name: "Static Chess",
-  display: "standalone",
-  background_color: "#ffffff",
-  start_url: "/",
-});
+aW1wb3J0IGhhbmRsZXIgZnJvbSAiaHR0cHM6Ly9lc20udG93bi92L21heG0vc3RhdGljQ2hlc3MiOwppbXBvcnQgeyBwd2EgfSBmcm9tICJodHRwczovL2VzbS50b3duL3YvcG9tZHRyL3B3YSI7CgpleHBvcnQgZGVmYXVsdCBwd2EoaGFuZGxlciwgewogIG5hbWU6ICJTdGF0aWMgQ2hlc3MiLAogIGRpc3BsYXk6ICJzdGFuZGFsb25lIiwKICBiYWNrZ3JvdW5kX2NvbG9yOiAiI2ZmZmZmZiIsCiAgc3RhcnRfdXJsOiAiLyIsCn0pOw==
