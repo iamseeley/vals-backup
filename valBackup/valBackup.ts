@@ -1,1 +1,127 @@
-aW1wb3J0IHsgVmFsVG93bkFQSSB9IGZyb20gJ2h0dHBzOi8vZXNtLnRvd24vdi9pYW1zZWVsZXkvVmFsVG93bkFQSSc7CmltcG9ydCB7IEdpdEh1YkFQSSB9IGZyb20gJ2h0dHBzOi8vZXNtLnRvd24vdi9pYW1zZWVsZXkvR2l0SHViQVBJJzsKCmNvbnN0IFZBTF9UT1dOX0FQSV9LRVkgPSBEZW5vLmVudi5nZXQoJ3ZhbHRvd24nKTsKY29uc3QgR0lUSFVCX1RPS0VOID0gRGVuby5lbnYuZ2V0KCJHSVRIVUJfVE9LRU4iKTsKY29uc3QgR0lUSFVCX1JFUE8gPSAiaWFtc2VlbGV5L3ZhbHMtYmFja3VwIjsKY29uc3QgR0lUSFVCX0JSQU5DSCA9ICJtYWluIjsKCmNvbnN0IHZhbFRvd25BUEkgPSBuZXcgVmFsVG93bkFQSShWQUxfVE9XTl9BUElfS0VZKTsKY29uc3QgZ2l0SHViQVBJID0gbmV3IEdpdEh1YkFQSShHSVRIVUJfVE9LRU4pOwoKYXN5bmMgZnVuY3Rpb24gZmV0Y2hWYWxzKCkgewogIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgdmFsVG93bkFQSS5nZXRBbGxWYWxzKCk7CiAgcmV0dXJuIHJlc3BvbnNlLmRhdGE7Cn0KCmFzeW5jIGZ1bmN0aW9uIGdldEV4aXN0aW5nRmlsZXMoKSB7CiAgY29uc29sZS5sb2coYEZldGNoaW5nIGV4aXN0aW5nIGZpbGVzIGZyb20gcmVwbzogJHtHSVRIVUJfUkVQT30sIGJyYW5jaDogJHtHSVRIVUJfQlJBTkNIfWApOwogIHRyeSB7CiAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGdpdEh1YkFQSS5nZXRSZXBvQ29udGVudChHSVRIVUJfUkVQTywgIiIsIEdJVEhVQl9CUkFOQ0gpOwogICAgY29uc29sZS5sb2coIkV4aXN0aW5nIGZpbGVzOiIsIHJlc3BvbnNlKTsKICAgIHJldHVybiByZXNwb25zZS5tYXAoZmlsZSA9PiBmaWxlLnBhdGgpOwogIH0gY2F0Y2ggKGVycm9yKSB7CiAgICBjb25zb2xlLmVycm9yKGBFcnJvciBmZXRjaGluZyByZXBvIGNvbnRlbnQ6ICR7ZXJyb3IubWVzc2FnZX1gKTsKICAgIHRocm93IGVycm9yOwogIH0KfQoKYXN5bmMgZnVuY3Rpb24gZ2V0TGFzdEJhY2t1cERhdGVzKCkgewogIGNvbnN0IGZpbGVzID0gYXdhaXQgZ2V0RXhpc3RpbmdGaWxlcygpOwogIGNvbnN0IGxhc3RNb2RpZmllZERhdGVzID0ge307CgogIGZvciAoY29uc3QgZmlsZSBvZiBmaWxlcykgewogICAgY29uc3QgY29tbWl0SGlzdG9yeSA9IGF3YWl0IGdpdEh1YkFQSS5nZXRDb21taXRIaXN0b3J5KEdJVEhVQl9SRVBPLCBmaWxlLCBHSVRIVUJfQlJBTkNIKTsKICAgIGxhc3RNb2RpZmllZERhdGVzW2ZpbGVdID0gbmV3IERhdGUoY29tbWl0SGlzdG9yeVswXS5jb21taXQuY29tbWl0dGVyLmRhdGUpLmdldFRpbWUoKTsKICB9CgogIHJldHVybiBsYXN0TW9kaWZpZWREYXRlczsKfQoKYXN5bmMgZnVuY3Rpb24gdXBkYXRlT3JDcmVhdGVGaWxlKGZpbGVQYXRoLCBmaWxlQ29udGVudCwgY29tbWl0TWVzc2FnZSkgewogIGNvbnN0IGV4aXN0aW5nRmlsZXMgPSBhd2FpdCBnZXRFeGlzdGluZ0ZpbGVzKCk7CiAgY29uc3QgZmlsZUV4aXN0cyA9IGV4aXN0aW5nRmlsZXMuaW5jbHVkZXMoZmlsZVBhdGgpOwogIGNvbnN0IGVuY29kZWRDb250ZW50ID0gYnRvYSh1bmVzY2FwZShlbmNvZGVVUklDb21wb25lbnQoZmlsZUNvbnRlbnQpKSk7CgogIHRyeSB7CiAgICBpZiAoZmlsZUV4aXN0cykgewogICAgICBjb25zb2xlLmxvZyhgRmlsZSBleGlzdHM6ICR7ZmlsZVBhdGh9YCk7CiAgICAgIGNvbnN0IHNoYVJlc3BvbnNlID0gYXdhaXQgZ2l0SHViQVBJLmdldFJlcG9Db250ZW50KEdJVEhVQl9SRVBPLCBmaWxlUGF0aCwgR0lUSFVCX0JSQU5DSCk7CiAgICAgIGNvbnN0IHNoYSA9IHNoYVJlc3BvbnNlLnNoYTsKICAgICAgY29uc29sZS5sb2coYEZldGNoZWQgU0hBIGZvciAke2ZpbGVQYXRofTogJHtzaGF9YCk7CiAgICAgIGlmICghc2hhKSB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKGBGYWlsZWQgdG8gZmV0Y2ggU0hBIGZvciAke2ZpbGVQYXRofWApOwogICAgICB9CiAgICAgIGF3YWl0IGdpdEh1YkFQSS51cGRhdGVGaWxlKEdJVEhVQl9SRVBPLCBmaWxlUGF0aCwgZW5jb2RlZENvbnRlbnQsIHNoYSwgY29tbWl0TWVzc2FnZSwgR0lUSFVCX0JSQU5DSCk7CiAgICAgIGNvbnNvbGUubG9nKGBGaWxlIHVwZGF0ZWQ6ICR7ZmlsZVBhdGh9YCk7CiAgICB9IGVsc2UgewogICAgICBjb25zb2xlLmxvZyhgRmlsZSBkb2VzIG5vdCBleGlzdDogJHtmaWxlUGF0aH1gKTsKICAgICAgYXdhaXQgZ2l0SHViQVBJLmNyZWF0ZUZpbGUoR0lUSFVCX1JFUE8sIGZpbGVQYXRoLCBlbmNvZGVkQ29udGVudCwgY29tbWl0TWVzc2FnZSwgR0lUSFVCX0JSQU5DSCk7CiAgICAgIGNvbnNvbGUubG9nKGBGaWxlIGNyZWF0ZWQ6ICR7ZmlsZVBhdGh9YCk7CiAgICB9CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGNvbnNvbGUuZXJyb3IoYEVycm9yIGNyZWF0aW5nL3VwZGF0aW5nIGZpbGUgJHtmaWxlUGF0aH06ICR7ZXJyb3IubWVzc2FnZX1gKTsKICAgIGNvbnNvbGUuZXJyb3IoZXJyb3Iuc3RhY2spOwogICAgaWYgKGVycm9yLm1lc3NhZ2UuaW5jbHVkZXMoJ1VucHJvY2Vzc2FibGUgRW50aXR5JykpIHsKICAgICAgY29uc29sZS5lcnJvcihgQ2hlY2sgaWYgdGhlIGZpbGUgcGF0aCBvciBjb250ZW50IGlzIGluY29ycmVjdCBmb3IgJHtmaWxlUGF0aH1gKTsKICAgIH0KICAgIHRocm93IGVycm9yOwogIH0KfQoKCmFzeW5jIGZ1bmN0aW9uIGJhY2t1cFZhbHMoKSB7CiAgY29uc3QgdmFscyA9IGF3YWl0IGZldGNoVmFscygpOwogIGNvbnN0IGxhc3RCYWNrdXBEYXRlcyA9IGF3YWl0IGdldExhc3RCYWNrdXBEYXRlcygpOwogIGNvbnN0IGFsbFZhbHNEZXRhaWxzID0gW107CgogIGZvciAoY29uc3QgdmFsIG9mIHZhbHMpIHsKICAgIGNvbnN0IHZhbERpciA9IHZhbC5uYW1lOwogICAgY29uc3QgdmFsUGF0aCA9IGAke3ZhbERpcn0vJHt2YWwubmFtZX0udHNgOwogICAgY29uc3QgcmVhZG1lUGF0aCA9IGAke3ZhbERpcn0vUkVBRE1FLm1kYDsKCiAgICBjb25zdCB2YWxNb2RpZmllZERhdGUgPSBuZXcgRGF0ZSh2YWwudXBkYXRlZEF0KS5nZXRUaW1lKCk7CgogICAgaWYgKCFsYXN0QmFja3VwRGF0ZXNbdmFsUGF0aF0gfHwgdmFsTW9kaWZpZWREYXRlID4gbGFzdEJhY2t1cERhdGVzW3ZhbFBhdGhdKSB7CiAgICAgIGNvbnN0IHZhbENvZGVDb250ZW50ID0gdmFsLmNvZGU7CiAgICAgIGNvbnN0IHJlYWRtZUNvbnRlbnQgPSB2YWwucmVhZG1lIHx8ICcnOwogICAgICBjb25zdCB2YWxEZXRhaWxzID0gewogICAgICAgIG5hbWU6IHZhbC5uYW1lLAogICAgICAgIHVwZGF0ZWRBdDogdmFsLnVwZGF0ZWRBdCwKICAgICAgICByZWFkbWU6IHZhbC5yZWFkbWUsCiAgICAgIH07CgogICAgICBhbGxWYWxzRGV0YWlscy5wdXNoKHZhbERldGFpbHMpOwoKICAgICAgYXdhaXQgdXBkYXRlT3JDcmVhdGVGaWxlKHZhbFBhdGgsIHZhbENvZGVDb250ZW50LCBgVXBkYXRlIHZhbDogJHt2YWwubmFtZX1gKTsKICAgICAgYXdhaXQgdXBkYXRlT3JDcmVhdGVGaWxlKHJlYWRtZVBhdGgsIHJlYWRtZUNvbnRlbnQsIGBVcGRhdGUgUkVBRE1FOiAke3ZhbC5uYW1lfWApOwogICAgfQogIH0KCiAgY29uc3QgYWxsVmFsc0NvbnRlbnQgPSBKU09OLnN0cmluZ2lmeShhbGxWYWxzRGV0YWlscywgbnVsbCwgMik7CiAgYXdhaXQgdXBkYXRlT3JDcmVhdGVGaWxlKGB2YWxzLmpzb25gLCBhbGxWYWxzQ29udGVudCwgYFVwZGF0ZSB2YWxzLmpzb25gKTsKICBjb25zb2xlLmxvZygiQmFja3VwIGNvbXBsZXRlLiIpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gcnVuQmFja3VwSWZDaGFuZ2VkKCkgewogIGNvbnN0IHZhbHMgPSBhd2FpdCBmZXRjaFZhbHMoKTsKICBjb25zdCBsYXN0QmFja3VwRGF0ZXMgPSBhd2FpdCBnZXRMYXN0QmFja3VwRGF0ZXMoKTsKCiAgbGV0IGNoYW5nZXNEZXRlY3RlZCA9IGZhbHNlOwoKICBmb3IgKGNvbnN0IHZhbCBvZiB2YWxzKSB7CiAgICBjb25zdCB2YWxQYXRoID0gYCR7dmFsLm5hbWV9LyR7dmFsLm5hbWV9LnRzYDsKICAgIGNvbnN0IHZhbE1vZGlmaWVkRGF0ZSA9IG5ldyBEYXRlKHZhbC51cGRhdGVkQXQpLmdldFRpbWUoKTsKCiAgICBpZiAoIWxhc3RCYWNrdXBEYXRlc1t2YWxQYXRoXSB8fCB2YWxNb2RpZmllZERhdGUgPiBsYXN0QmFja3VwRGF0ZXNbdmFsUGF0aF0pIHsKICAgICAgY2hhbmdlc0RldGVjdGVkID0gdHJ1ZTsKICAgICAgYnJlYWs7CiAgICB9CiAgfQoKICBpZiAoY2hhbmdlc0RldGVjdGVkKSB7CiAgICBhd2FpdCBiYWNrdXBWYWxzKCk7CiAgfSBlbHNlIHsKICAgIGNvbnNvbGUubG9nKCJObyBjaGFuZ2VzIGRldGVjdGVkLCBza2lwcGluZyBiYWNrdXAuIik7CiAgfQp9
+import { ValTownAPI } from 'https://esm.town/v/iamseeley/ValTownAPI';
+import { GitHubAPI } from 'https://esm.town/v/iamseeley/GitHubAPI';
+
+const VAL_TOWN_API_KEY = Deno.env.get('valtown');
+const GITHUB_TOKEN = Deno.env.get("GITHUB_TOKEN");
+const GITHUB_REPO = "iamseeley/vals-backup";
+const GITHUB_BRANCH = "main";
+
+const valTownAPI = new ValTownAPI(VAL_TOWN_API_KEY);
+const gitHubAPI = new GitHubAPI(GITHUB_TOKEN);
+
+async function fetchVals() {
+  const response = await valTownAPI.getAllVals();
+  return response.data;
+}
+
+async function getExistingFiles() {
+  console.log(`Fetching existing files from repo: ${GITHUB_REPO}, branch: ${GITHUB_BRANCH}`);
+  try {
+    const response = await gitHubAPI.getRepoContent(GITHUB_REPO, "", GITHUB_BRANCH);
+    console.log("Existing files:", response);
+    return response.map(file => file.path);
+  } catch (error) {
+    console.error(`Error fetching repo content: ${error.message}`);
+    throw error;
+  }
+}
+
+async function getLastBackupDates() {
+  const files = await getExistingFiles();
+  const lastModifiedDates = {};
+
+  for (const file of files) {
+    const commitHistory = await gitHubAPI.getCommitHistory(GITHUB_REPO, file, GITHUB_BRANCH);
+    lastModifiedDates[file] = new Date(commitHistory[0].commit.committer.date).getTime();
+  }
+
+  return lastModifiedDates;
+}
+
+async function updateOrCreateFile(filePath, fileContent, commitMessage) {
+  const existingFiles = await getExistingFiles();
+  const fileExists = existingFiles.includes(filePath);
+
+  try {
+    if (fileExists) {
+      console.log(`File exists: ${filePath}`);
+      const shaResponse = await gitHubAPI.getRepoContent(GITHUB_REPO, filePath, GITHUB_BRANCH);
+      const sha = shaResponse.sha;
+      console.log(`Fetched SHA for ${filePath}: ${sha}`);
+      if (!sha) {
+        throw new Error(`Failed to fetch SHA for ${filePath}`);
+      }
+      await gitHubAPI.updateFile(GITHUB_REPO, filePath, fileContent, sha, commitMessage, GITHUB_BRANCH);
+      console.log(`File updated: ${filePath}`);
+    } else {
+      console.log(`File does not exist: ${filePath}`);
+      await gitHubAPI.createFile(GITHUB_REPO, filePath, fileContent, commitMessage, GITHUB_BRANCH);
+      console.log(`File created: ${filePath}`);
+    }
+  } catch (error) {
+    console.error(`Error creating/updating file ${filePath}: ${error.message}`);
+    console.error(error.stack);
+    if (error.message.includes('Unprocessable Entity')) {
+      console.error(`Check if the file path or content is incorrect for ${filePath}`);
+    }
+    throw error;
+  }
+}
+
+
+
+async function backupVals() {
+  const vals = await fetchVals();
+  const lastBackupDates = await getLastBackupDates();
+  const allValsDetails = [];
+
+  for (const val of vals) {
+    const valDir = val.name;
+    const valPath = `${valDir}/${val.name}.ts`;
+    const readmePath = `${valDir}/README.md`;
+
+    const valModifiedDate = new Date(val.updatedAt).getTime();
+
+    if (!lastBackupDates[valPath] || valModifiedDate > lastBackupDates[valPath]) {
+      const valCodeContent = val.code;
+      const readmeContent = val.readme || '';
+      const valDetails = {
+        name: val.name,
+        updatedAt: val.updatedAt,
+        readme: val.readme,
+      };
+
+      allValsDetails.push(valDetails);
+
+      await updateOrCreateFile(valPath, valCodeContent, `Update val: ${val.name}`);
+      await updateOrCreateFile(readmePath, readmeContent, `Update README: ${val.name}`);
+    }
+  }
+
+  const allValsContent = JSON.stringify(allValsDetails, null, 2);
+  await updateOrCreateFile(`vals.json`, allValsContent, `Update vals.json`);
+  console.log("Backup complete.");
+}
+
+export async function runBackupIfChanged() {
+  const vals = await fetchVals();
+  const lastBackupDates = await getLastBackupDates();
+
+  let changesDetected = false;
+
+  for (const val of vals) {
+    const valPath = `${val.name}/${val.name}.ts`;
+    const valModifiedDate = new Date(val.updatedAt).getTime();
+
+    if (!lastBackupDates[valPath] || valModifiedDate > lastBackupDates[valPath]) {
+      changesDetected = true;
+      break;
+    }
+  }
+
+  if (changesDetected) {
+    await backupVals();
+  } else {
+    console.log("No changes detected, skipping backup.");
+  }
+}
