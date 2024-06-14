@@ -1,5 +1,1 @@
-import { runBackupIfChanged } from 'https://esm.town/v/iamseeley/valBackup';
-
-export default async function (interval: Interval) {
-  await runBackupIfChanged();
-}
+aW1wb3J0IHsgcnVuQmFja3VwSWZDaGFuZ2VkIH0gZnJvbSAnaHR0cHM6Ly9lc20udG93bi92L2lhbXNlZWxleS92YWxCYWNrdXAnOwoKZXhwb3J0IGRlZmF1bHQgYXN5bmMgZnVuY3Rpb24gKGludGVydmFsOiBJbnRlcnZhbCkgewogIGF3YWl0IHJ1bkJhY2t1cElmQ2hhbmdlZCgpOwp9
