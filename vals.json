@@ -1,6 +1,21 @@
 [
   {
-    "name": "blushButterfly"
+    "name": "resumeJSON"
+  },
+  {
+    "name": "pinkBear"
+  },
+  {
+    "name": "aquamarineTurtle"
+  },
+  {
+    "name": "turquoiseSkunk"
+  },
+  {
+    "name": "amaranthBug"
+  },
+  {
+    "name": "valBackupCron"
   },
   {
     "name": "valBackup"
@@ -43,20 +58,5 @@
   },
   {
     "name": "thomasResumeConfig"
-  },
-  {
-    "name": "oceanListener"
-  },
-  {
-    "name": "oceanTheme"
-  },
-  {
-    "name": "animateElement"
-  },
-  {
-    "name": "threedEmoji"
-  },
-  {
-    "name": "flashBorder"
   }
 ]
