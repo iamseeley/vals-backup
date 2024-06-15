@@ -30,8 +30,9 @@ export async function hostResume(jsonResume, apiKey) {
                 const resume = JSON.stringify(resumeJSON);
                 return new Response(resume, { headers: { "Content-Type": "application/json" } });
             }`,
+            type: "http",
             name: "resumeJSON",
-            readme: "**🎉 A handler to serve your JSON Resume.** <br> Switch this Val to HTTP and voilà your JSON Resume is hosted on Val Town!",
+            readme: "**🎉 A handler to serve your JSON Resume.**",
             privacy: "public",
         }),
     });
