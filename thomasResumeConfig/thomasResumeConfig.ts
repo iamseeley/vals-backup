@@ -1,8 +1,9 @@
 import { resumeSetup } from 'https://esm.town/v/iamseeley/resumeSetup';
 import { renderResume } from 'https://esm.town/v/iamseeley/renderResume';
-import { starterTheme } from 'https://esm.town/v/iamseeley/starterTheme';
 import { oceanTheme } from 'https://esm.town/v/iamseeley/oceanTheme';
+import { starterTheme } from "https://esm.town/v/iamseeley/starterTheme";
 import { customSkillsSection } from "https://esm.town/v/iamseeley/customSkillsSection";
+
 
 export const resumeConfig = {
   // URL to fetch the resume JSON data. This should point to your raw resume JSON.
